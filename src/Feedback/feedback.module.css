@@ -1,0 +1,25 @@
+.Fb_container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.button_container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.statistics_container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.results_container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.list_item {
+  display: flex;
+}
